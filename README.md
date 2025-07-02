@@ -1,20 +1,15 @@
 ## 🎤 Introduce
-물리학도입니다. 
 
-군대에서 html, css, js로 주사위 게임 만든게 시작입니다. 
-
-유튜브 쇼츠 볼 시간에 건전한 취미로 코딩 한번 해보려 합니다. 
 
 <br>
 
 ## 🔭 I’m currently working on ...
-- 요트 다이스 보드게임 개발
+- Nothing
 
 <br>
 
 ## 🌱 I’m currently learning ...
-- 리액트 공부하는 중
-- 게임 개발에도 관심
+- Machine learning
 
 <br>
 
